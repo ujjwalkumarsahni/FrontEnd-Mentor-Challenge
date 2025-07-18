@@ -29,3 +29,4 @@ This repository is a collection of my projects as I learn and practice **HTML** 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/ujwalkumarsahni/FrontEnd-Mentor-Challenge.git
+   cd FrontEnd-Mentor-Challenge
